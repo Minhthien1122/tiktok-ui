@@ -1,4 +1,4 @@
-import routesConfig from '~/configs/routes';
+import routesConfig from '~/config/routes';
 
 // layout
 import { HeaderOnly } from '~/components/Layout';
